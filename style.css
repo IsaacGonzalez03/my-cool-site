@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  background-color: white;
+}
+
+
+
+section.header{
+  background-color: #1c4587;
+  display: flex;
+  justify-content: center;
+}
+
+section.main{
+  margin:0 -1rem;
+  width: 60%;
+}
+div.center{
+  display: flex;
+  justify-content: center;
+}
+div.rcolm{
+  padding: 2rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 10%;
+  margin-top: 5rem;
+  flex-direction: column;
+}
+h3{
+display: flex;
+justify-content: center;
+}
